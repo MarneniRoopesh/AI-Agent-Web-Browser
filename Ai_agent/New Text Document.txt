@@ -1,0 +1,8 @@
+  Open cmd with web-ui directory
+1. Creates an environment - uv venv --python 3.11
+2. Activate the env - source .venv/bin/activate
+3. uv pip install -r requirements.txt
+4.  python webui.py --ip 127.0.0.1 --port 7788
+5. You will get the ip and copy and paste the ip
+5. Go to google studio and get the gemini api and paste in the browser-ui
+6.Run Agent
